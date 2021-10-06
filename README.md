@@ -7,6 +7,12 @@ TICE is the secure app for meeting up, sharing locations and locating friends an
 <a href="https://apps.apple.com/us/app/tice-secure-location-sharing/id1494324936" target="_blank"><img src="Material/Download_on_the_App_Store_Badge.svg" width="200" alt="Download TICE from the App Store"></a>
 <a href="https://play.google.com/store/apps/details?id=app.tice.TICE.production" target="_blank"><img src="Material/Google_Play_Store_badge_EN.svg" width="200" alt="Download TICE from Google Play"></a>
 
+## Quick links to our client repos
+
+- [TICESoftware/tice-ios](https://github.com/TICESoftware/tice-ios) – iOS Client
+- [TICESoftware/tice-android](https://github.com/TICESoftware/tice-android) – Android Client
+- [TICESoftware/tice-web](https://github.com/TICESoftware/tice-web) – Web Client
+
 # Open Source Development Goals
 
 Open sourcing TICE follows our goals of making TICE more secure and growing it even further in terms of community, applications and features.

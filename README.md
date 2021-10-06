@@ -33,6 +33,7 @@ The TICE app is built natively for the different platforms and consists of sever
 
 - [TICESoftware/tice-ios](https://github.com/TICESoftware/tice-ios) – iOS Client
 - [TICESoftware/tice-android](https://github.com/TICESoftware/tice-android) – Android Client
+- [TICESoftware/tice-web](https://github.com/TICESoftware/tice-web) – Web Client
 
 Platform dependent issues should be discussed in their respective repositories.
 
